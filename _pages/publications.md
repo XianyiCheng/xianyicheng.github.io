@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 
-Publications
+## Publications
 -----
 
 **Cheng, Xianyi**; Jia, Zhenzhong; and Mason, Matthew T. "**Data-Efficient  Process  Monitoring  and  Failure  Detectionfor  Robust  Robotic  Screwdriving**" Submitted to International Conference on Robotics and Automation (ICRA), 2019. [<span style="color:blue; text-decoration:underline">PDF</span>](https://captaincabbage.github.io/files/cheng_icra19.pdf)
