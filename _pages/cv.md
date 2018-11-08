@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 
 ---
-
+CV
+------
 ## Education
 -------
 * M.S. of Robotics in Carnegie Mellon University, 2017 - present
