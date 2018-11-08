@@ -9,8 +9,8 @@ CV
 ------
 ## Education
 -------
-* M.S. of Robotics in Carnegie Mellon University, 2017 - present
-* B.S. of Aerospace Engineering in Harbin Institute of Technology, 2013 - 2017
+* M.S. of Robotics, Carnegie Mellon University, 2017 - present
+* B.S. of Aerospace Engineering, Harbin Institute of Technology, 2013 - 2017
 
 ## Publications
 --------

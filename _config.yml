@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xianyi Cheng"
 title_separator          : "-"
 name                     : &name "Xianyi Cheng"
-description              : &description "Master of Robotics at Carnegie Mellon University"
+description              : &description "Master of Robotics"
 url                      : https://captaincabbage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/CaptainCabbage"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xianyi Cheng"
   avatar           : "profile.png"
-  bio              : "Master of Robotics at Carnegie Mellon University"
-  location         : "Pittsburgh, Pennsylvania"
+  bio              : "Master of Robotics"
+  location         : "Carnegie Mellon University, Pittsburgh"
   employer         :
   googlescholar    :
   email            : "xianyic@andrew.cmu.edu"
