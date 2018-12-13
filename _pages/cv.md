@@ -5,7 +5,8 @@ permalink: /cv/
 author_profile: true
 
 ---
-CV
+CV: Download [<span style="color:blue; text-decoration:underline">here</span>](https://captaincabbage.github.io/files/Professional_CV.pdf)
+
 ------
 ## Education
 -------
