@@ -11,9 +11,9 @@ title                    : "Xianyi Cheng"
 title_separator          : "-"
 name                     : &name "Xianyi Cheng"
 description              : &description "Master of Robotics"
-url                      : https://captaincabbage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xianyicheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/CaptainCabbage"
+repository               : "https://github.com/xianyicheng"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CaptainCabbage"
+  github           : "XianyiCheng"
   google_plus      :
   keybase          :
   instagram        :
