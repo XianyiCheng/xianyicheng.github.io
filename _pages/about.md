@@ -11,4 +11,4 @@ redirect_from:
 Xianyi Cheng
 -----
 
-Hi, I'm Xianyi Cheng. I'm a master student at [The Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University. I'm advised by [Matt Mason](http://www.cs.cmu.edu/~mason/) at [the Manipulation Lab](http://mlab.ri.cmu.edu/#!index.md). My research interests are in contact-rich robotic manipulation. 
+Hi, I'm Xianyi Cheng. I'm a master student at [The Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University. I'm advised by [Matt Mason](http://www.cs.cmu.edu/~mason/) at [the Manipulation Lab](http://mlab.ri.cmu.edu/#!index.md). My research interests are in contact-rich robotic manipulation.
