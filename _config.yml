@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xianyi Cheng"
 title_separator          : "-"
 name                     : &name "Xianyi Cheng"
-description              : &description "Master of Robotics"
+description              : &description "Roboticist @ CMU"
 url                      : https://xianyicheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/xianyicheng"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xianyi Cheng"
   avatar           : "IMG_2165.jpg"
-  bio              : "Master of Robotics"
-  location         : "CMU, Pittsburgh"
+  bio              : "Roboticist @ CMU"
+  location         : "Pittsburgh"
   employer         :
   googlescholar    : https://scholar.google.com/citations?hl=en&user=PvDd3k4AAAAJ
   email            : "xianyic@andrew.cmu.edu"
