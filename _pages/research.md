@@ -16,7 +16,7 @@ If there is an octopus civilization, maybe most of its robotic manipulation stud
 
 
 
-<iframe width="400" height="400"
+<iframe width="200" height="100"
 src="https://www.youtube.com/embed/tJRnX7c2P-g">
 </iframe>
 
