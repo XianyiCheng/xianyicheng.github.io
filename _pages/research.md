@@ -10,13 +10,19 @@ Research
 
 
 
-### Manipulation with Suction Cups
+## Manipulation with Suction Cups
+
+
 
 If there is an octopus civilization, maybe most of its robotic manipulation study will be about suction cups.  However, human beings only use vacuum suction cups for pick and place. Suction cups have the potential to be powerful manipulators. We want to explore what other manipulation tasks suction cups can do, and extend our study to soft robotic fingers.
 
 
 
-<iframe width="200" height="100"
+Check out this video:
+
+
+
+<iframe width="150" height="80"
 src="https://www.youtube.com/embed/tJRnX7c2P-g">
 </iframe>
 
@@ -24,7 +30,9 @@ src="https://www.youtube.com/embed/tJRnX7c2P-g">
 
 
 
-### Screwdriving
+## Screwdriving
+
+
 
 We are interested in screwdriving for mini-screws. Hundreds of billions of small screws are assembled in consumer electronics industry every year, yet reliable screwdriving automation remains one of the most
 challenging tasks.
