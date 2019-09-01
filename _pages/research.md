@@ -10,7 +10,7 @@ Research
 
 
 
-## Manipulation with Suction Cups
+### Manipulation with Suction Cups
 
 
 
@@ -20,17 +20,11 @@ If there is an octopus civilization, maybe most of its robotic manipulation stud
 
 Check out this video:
 
-
-
-<iframe width="150" height="80"
-src="https://www.youtube.com/embed/tJRnX7c2P-g">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eK77vK8wkUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-
-
-## Screwdriving
+### Screwdriving
 
 
 
