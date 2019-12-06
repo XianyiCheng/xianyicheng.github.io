@@ -10,6 +10,18 @@ Research
 
 
 
+### Manipulation through External Contacts and Forces
+
+How do we achieve dexterity in manipulation? Dexterity is not only from the manipulator, but also from the environments and the actions we planned. I'm studying how to enable a robot to perform more dexterous manipulation tasks with even simple grippers. Environment contacts, external forces like the gravity, and regrasping motions are all our friends. 
+
+
+
+This video is our first step:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FPPaYDfFcVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ### Manipulation with Suction Cups
 
 
@@ -24,7 +36,6 @@ Check out this video:
 
 
 
-
 ### Screwdriving
 
 
@@ -35,4 +46,4 @@ challenging tasks.
 To study the screwdriving processes, we collected a large screwdriving dataset including more than 8,000 screwdriving operations. For more information, please visit [<span style="color:blue; text-decoration:underline">our dataset webpage</span>](http://mlab.ri.cmu.edu/index.php/research/datasets).
 
 
-We also developed a data efficient failure detection and stage classification framework for screwdriving.
+We also developed a data efficient failure detection and stage classification framework for screwdriving [<span style="color:blue; text-decoration:underline">[here]</span>](https://xianyicheng.github.io/files/cheng_case19.pdf).
