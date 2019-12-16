@@ -11,7 +11,7 @@ redirect_from:
 -----
 
 **Cheng, Xianyi**; Hou, Yifan; and Mason, Matthew T. "**Manipulation with Suction Cups using External
-Contacts**" Accepted by International Symposium on Robotics Research (ISRR), 2019.  [<span style="color:blue; text-decoration:underline">PDF</span>](https://xianyicheng.github.io/files/cheng_isrr19.pdf)
+Contacts**" International Symposium on Robotics Research (ISRR), 2019.  [<span style="color:blue; text-decoration:underline">PDF</span>](https://xianyicheng.github.io/files/cheng_isrr19.pdf)
 
 **Cheng, Xianyi**; Jia, Zhenzhong; and Mason, Matthew T. "**Data-Efficient  Process  Monitoring  and  Failure  Detectionfor  Robust  Robotic  Screwdriving**" International Conference on Automation Science and Engineering (CASE), 2019. [<span style="color:blue; text-decoration:underline">PDF</span>](https://xianyicheng.github.io/files/cheng_case19.pdf)
 

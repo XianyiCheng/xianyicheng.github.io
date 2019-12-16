@@ -12,13 +12,15 @@ Research
 
 ### Manipulation through External Contacts and Forces
 
-How do we achieve dexterity in manipulation? Dexterity is not only from the manipulator, but also from the environments and the actions we planned. I'm studying how to enable a robot to perform more dexterous manipulation tasks with even simple grippers. Environment contacts, external forces like the gravity, and regrasping motions are all our friends. 
+How do we achieve dexterity in manipulation? Dexterity is not only from the manipulator, but also from the environments and the actions we planned. I'm studying how to enable a robot to perform more dexterous manipulation tasks with even simple grippers. Environment contacts, external forces like the gravity, and regrasping motions are all our friends. Right now I'm focusing on the mechanics behind contact-rich robotic interactions.
 
 
 
 This video is our first step:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPPaYDfFcVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
@@ -32,7 +34,10 @@ If there is an octopus civilization, maybe most of its robotic manipulation stud
 
 Check out this video:
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eK77vK8wkUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
