@@ -10,6 +10,8 @@ redirect_from:
 ## Publications
 -----
 
+Huang, Eric, **Cheng, Xianyi**; and Mason, Matthew T. "**Efficient Contact Mode Enumeration in 3D**" International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2020.  [<span style="color:blue; text-decoration:underline">PDF</span>](https://xianyicheng.github.io/files/huang_wafr20.pdf)
+
 **Cheng, Xianyi**; Hou, Yifan; and Mason, Matthew T. "**Manipulation with Suction Cups using External
 Contacts**" International Symposium on Robotics Research (ISRR), 2019.  [<span style="color:blue; text-decoration:underline">PDF</span>](https://xianyicheng.github.io/files/cheng_isrr19.pdf)
 
