@@ -10,19 +10,17 @@ Research
 
 
 
-### Manipulation through External Contacts and Forces
+## Dexterous Manipulation Planning
 
-How do we achieve dexterity in manipulation? Dexterity is not only from the manipulator, but also from the environments and the actions we planned. I'm studying how to enable a robot to perform more dexterous manipulation tasks with even simple grippers. Environment contacts, external forces like the gravity, and regrasping motions are all our friends. Right now I'm focusing on the mechanics behind contact-rich robotic interactions.
+How do we achieve dexterity in manipulation? Dexterity is not only from the manipulator, but also from the environments and the planned actions. I'm studying how to enable a robot to perform more dexterous manipulation tasks with even simple grippers. Environment contacts, external forces like the gravity, and regrasping motions are all our friends. Right now I'm focusing on how to plan contact-rich robotic interactions. This problem is challenging due to the discontinuity and hybrid nature of  contacts.
 
+This is our first step [<span style="color:blue; text-decoration:underline">[(paper here)]</span>](https://arxiv.org/abs/2011.01454).
 
-
-This video is our first step:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FPPaYDfFcVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube/embed/7MGQRFbExjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-### Manipulation with Suction Cups
+## Manipulation with Suction Cups
 
 
 
@@ -39,7 +37,7 @@ Check out this video:
 
 
 
-### Screwdriving
+## Screwdriving
 
 
 
