@@ -16,9 +16,7 @@ How do we achieve dexterity in manipulation? Dexterity is not only from the mani
 
 This is our first step [<span style="color:blue; text-decoration:underline">[(paper here)]</span>](https://arxiv.org/abs/2011.01454).
 
-<iframe width="560" height="315" src="https://youtube/embed/7MGQRFbExjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7MGQRFbExjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Manipulation with Suction Cups
 
