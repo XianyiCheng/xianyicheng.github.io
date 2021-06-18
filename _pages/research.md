@@ -14,7 +14,7 @@ Research
 
 How to make robots as creative as human beings in manipulation? My current research focuses on dexterous manipulation motion generation, the first step towards general manipulation intelligence. We considered the dexterity from planning through both the robot hand contacts and environment contacts. This problem is challenging due to the non-smooth and hybrid nature of contacts. 
 
-This is our first step [<span style="color:blue; text-decoration:underline">[2D planner]</span>](https://arxiv.org/abs/2011.01454). [<span style="color:blue; text-decoration:underline">[3D planner]</span>](https://arxiv.org/abs/2105.14431). **To the best of our knowledge, our planner is the first planner that is capable of solving diverse dexterous manipulation tasks without any pre-designed skill or pre-specified contact modes.**
+This is our first step [<span style="color:blue; text-decoration:underline">[2D planner]</span>](https://arxiv.org/abs/2011.01454). [<span style="color:blue; text-decoration:underline">[3D planner]</span>](https://arxiv.org/abs/2105.14431). **To the best of our knowledge, our planner is the first method that is capable of solving diverse dexterous manipulation tasks without any pre-designed skill or pre-specified contact modes.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o63dLjIsZmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
