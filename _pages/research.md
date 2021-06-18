@@ -12,21 +12,15 @@ Research
 
 ## Dexterous Manipulation Planning
 
-How do we achieve dexterity in manipulation? Dexterity is not only from the manipulator, but also from the environments and the planned actions. I'm studying how to enable a robot to perform more dexterous manipulation tasks with even simple grippers. Environment contacts, external forces like the gravity, and regrasping motions are all our friends. Right now I'm focusing on how to plan contact-rich robotic interactions. This problem is challenging due to the discontinuity and hybrid nature of  contacts.
+How to make robots as creative as human beings in manipulation? My current research focuses on dexterous manipulation motion generation, the first step towards general manipulation intelligence. We considered the dexterity from planning through both the robot hand contacts and environment contacts. This problem is challenging due to the non-smooth and hybrid nature of contacts. 
 
-This is our first step [<span style="color:blue; text-decoration:underline">[(paper here)]</span>](https://arxiv.org/abs/2011.01454).
+This is our first step [<span style="color:blue; text-decoration:underline">[2D planner]</span>](https://arxiv.org/abs/2011.01454). [<span style="color:blue; text-decoration:underline">[3D planner]</span>](https://arxiv.org/abs/2105.14431). **To the best of our knowledge, our planner is the first planner that is capable of solving diverse dexterous manipulation tasks without any pre-designed skill or pre-specified contact modes.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7MGQRFbExjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o63dLjIsZmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Manipulation with Suction Cups
 
-
-
 If there is an octopus civilization, maybe most of its robotic manipulation study will be about suction cups.  However, human beings only use vacuum suction cups for pick and place. Suction cups have the potential to be powerful manipulators. We want to explore what other manipulation tasks suction cups can do, and extend our study to soft robotic fingers.
-
-
-
-Check out this video:
 
 
 
