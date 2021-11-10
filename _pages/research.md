@@ -16,7 +16,7 @@ How to make robots as creative as human beings in manipulation? My current resea
 
 This is our first step [<span style="color:blue; text-decoration:underline">[2D planner]</span>](https://arxiv.org/abs/2011.01454) [<span style="color:blue; text-decoration:underline">[3D planner]</span>](https://arxiv.org/abs/2105.14431). **To the best of our knowledge, our planner is the first method that is capable of solving diverse dexterous manipulation tasks without any pre-designed skill or pre-specified contact modes.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o63dLjIsZmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JuLlliG3vGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Manipulation with Suction Cups
 
