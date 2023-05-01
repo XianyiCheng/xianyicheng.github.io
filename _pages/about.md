@@ -15,12 +15,9 @@ Hi, I'm Xianyi (she-an-yee). I'm a PhD student at [the Manipulation Lab](http://
 
 ## Publications
 
-**Sensor Selection and Stage & Result Classifications for Automated Miniature Screwdriving**
-
-**Xianyi Cheng**, Zhengzhong Jia, Ankit Bhatia, Reuben M Aronson, Matthew T Mason
-
-International Conference on Intelligent Robots (IROS), 2018
-
+**Sensor Selection and Stage & Result Classifications for Automated Miniature Screwdriving** \
+**Xianyi Cheng**, Zhengzhong Jia, Ankit Bhatia, Reuben M Aronson, Matthew T Mason \
+International Conference on Intelligent Robots (IROS), 2018 \
 [PDF](https://xianyicheng.github.io/files/cheng_iros18.pdf)
 
 ## Teaching 
