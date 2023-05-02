@@ -12,7 +12,7 @@ Xianyi Cheng 程先仪
 -----
 
 Hi, I'm Xianyi (she-an-yee). I'm a PhD student advised by Professor [Matt Mason](http://www.cs.cmu.edu/~mason/) at [the Manipulation Lab](http://mlab.ri.cmu.edu), Carnegie Mellon University. \
-I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox). My ultimate research goal is to bring human-level dexterity into robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
+I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity into robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
 
 ## Publications
 
