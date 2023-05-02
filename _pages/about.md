@@ -61,7 +61,8 @@ CMU 24-351 Dynamics, Fall 2022, TA and recitation instructor \
 CMU 24-760 Robot Dynamics and Analysis, Fall 2021, TA and recitation instructor
 
 ## CV
-
 Download [here](https://xianyicheng.github.io/files/Xianyi_CV.pdf)
 
 ## Misc
+
+I enjoy being part of the Carnegie Mellon Jazz Choir. Here are some of our performances: [Fall 2022](https://www.youtube.com/live/NCXkeIqxoXM?feature=share&t=1365), [Spring 2023](https://www.youtube.com/live/9lHFr5QU1q0?feature=share&t=670).
