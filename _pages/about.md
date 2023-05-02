@@ -32,7 +32,7 @@ International Conference on Intelligent Robots and Systems (IROS), 2022 \
 International Conference on Robotics and Automation (ICRA), 2022 \
 [paper](https://arxiv.org/abs/2105.14431)/ [video](https://youtu.be/JuLlliG3vGc)/ [code](https://github.com/XianyiCheng/CMGMP) 
 
-<iframe width="200" height="100" src="https://www.youtube.com/embed/JuLlliG3vGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 50%; height: auto;"></iframe>
+<iframe width="100" height="50" src="https://www.youtube.com/embed/JuLlliG3vGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D** \
