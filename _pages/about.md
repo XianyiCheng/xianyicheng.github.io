@@ -16,10 +16,19 @@ Hi, I'm Xianyi (she-an-yee). I'm a PhD student at [the Manipulation Lab](http://
 
 ## Publications
 
+**Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation** \
+Jacky Liang, **Xianyi Cheng**, Oliver Kroemer \
+The Conference on Robot Learning (CoRL), 2022 \ 
+[paper](https://arxiv.org/abs/2206.12728)
+
+**Contact Mode Guided Motion Planning for Quasidynamic Dexterous Manipulation in 3D** \
+**Xianyi Cheng**, Eric Huang, Yifan Hou, Matthew T. Mason \
+International Conference on Robotics and Automation (ICRA), 2022 \
+
 **Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D** \
 **Xianyi Cheng**, Eric Huang, Yifan Hou, Matthew T. Mason \
 International Conference on Robotics and Automation (ICRA), 2021 \
-[paper](https://arxiv.org/abs/2011.01454) 
+[paper](https://arxiv.org/abs/2011.01454)
 
 **Efficient Contact Mode Enumeration in 3D** \
 Eric Huang, **Xianyi Cheng**, Matthew T. Mason \
@@ -42,5 +51,11 @@ International Conference on Intelligent Robots (IROS), 2018 \
 [paper](https://xianyicheng.github.io/files/cheng_iros18.pdf)
 
 ## Teaching 
+CMU 24-351 Dynamics, Fall 2022, teaching assistant and recitation instructor \
+CMU 24-760 Robot Dynamics and Analysis, Fall 2021, teaching assistant and recitation instructor
+
+## CV
+
+Download [here](https://xianyicheng.github.io/files/Xianyi_CV.pdf)
 
 ## Misc
