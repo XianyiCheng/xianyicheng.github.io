@@ -10,7 +10,6 @@ redirect_from:
 
 Xianyi Cheng 程先仪
 -----
-[This website is under construction. Sorry for the mess :D]
 
 Hi, I'm Xianyi (she-an-yee). I'm a PhD student at [the Manipulation Lab](http://mlab.ri.cmu.edu), Carnegie Mellon University. I'm advised by Professor [Matt Mason](http://www.cs.cmu.edu/~mason/). My research interests are in dexterous robotic manipulation.
 
@@ -18,7 +17,7 @@ Hi, I'm Xianyi (she-an-yee). I'm a PhD student at [the Manipulation Lab](http://
 
 **Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation** \
 Jacky Liang, *Xianyi Cheng*, Oliver Kroemer \
-The Conference on Robot Learning (CoRL), 2022 \ 
+The Conference on Robot Learning (CoRL), 2022 \
 [paper](https://arxiv.org/abs/2206.12728)
 
 **Extrinsic Dexterous Manipulation with a Direct-drive Hand: A Case Study** \
@@ -26,16 +25,15 @@ Arnav Gupta, Yuemin Mao, Ankit Bhatia, *Xianyi Cheng*, Jonathan King, Yifan Hou,
 International Conference on Intelligent Robots and Systems (IROS), 2022 \
 [paper](https://ieeexplore.ieee.org/abstract/document/9981569)
 
-
 **Contact Mode Guided Motion Planning for Quasidynamic Dexterous Manipulation in 3D** \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
 International Conference on Robotics and Automation (ICRA), 2022 \
-[paper](https://arxiv.org/abs/2105.14431)/[video](https://youtu.be/JuLlliG3vGc)/[code](https://github.com/XianyiCheng/CMGMP)
+[paper](https://arxiv.org/abs/2105.14431)/ [video](https://youtu.be/JuLlliG3vGc)/ [code](https://github.com/XianyiCheng/CMGMP)
 
 **Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D** \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
 International Conference on Robotics and Automation (ICRA), 2021 \
-[paper](https://arxiv.org/abs/2011.01454)/[video](https://youtu.be/2yYYLN3JAbs)\
+[paper](https://arxiv.org/abs/2011.01454)/ [video](https://youtu.be/2yYYLN3JAbs)\
 [contact-mode-enumeration-2d-matlab](https://github.com/XianyiCheng/contact_mode_enumeration_2d)
 
 **Efficient Contact Mode Enumeration in 3D** \
