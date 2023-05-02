@@ -11,7 +11,8 @@ redirect_from:
 Xianyi Cheng 程先仪
 -----
 
-Hi, I'm Xianyi (she-an-yee). I'm a PhD student advised by Professor [Matt Mason](http://www.cs.cmu.edu/~mason/) at [the Manipulation Lab](http://mlab.ri.cmu.edu), Carnegie Mellon University. \
+Hi, I'm Xianyi (she-an-yee). I'm a PhD student advised by Professor [Matt Mason](http://www.cs.cmu.edu/~mason/) at [the Manipulation Lab](http://mlab.ri.cmu.edu), Carnegie Mellon University. 
+
 I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity into robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
 
 ## Publications
@@ -30,7 +31,7 @@ International Conference on Intelligent Robots and Systems (IROS), 2022 \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
 International Conference on Robotics and Automation (ICRA), 2022 \
 [paper](https://arxiv.org/abs/2105.14431)/ [video](https://youtu.be/JuLlliG3vGc)/ [code](https://github.com/XianyiCheng/CMGMP) \
-<iframe width="400" height="300" src="https://www.youtube.com/embed/JuLlliG3vGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" height="100" src="https://www.youtube.com/embed/JuLlliG3vGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D** \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
@@ -46,7 +47,7 @@ International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2020 \
 **Manipulation with Suction Cups using External Contacts** \
 *Xianyi Cheng*, Yifan Hou, Matthew T. Mason  \
 International Symposium on Robotics Research (ISRR), 2019 \
-[paper](https://xianyicheng.github.io/files/cheng_isrr19.pdf)
+[paper](https://xianyicheng.github.io/files/cheng_isrr19.pdf)/ [video](https://youtu.be/eK77vK8wkUE)
 
 **Data-Efficient  Process  Monitoring  and  Failure  Detectionfor  Robust  Robotic  Screwdriving** \
 *Xianyi Cheng*, Zhengzhong Jia, Matthew T. Mason \
