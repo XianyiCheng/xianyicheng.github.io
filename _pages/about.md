@@ -16,10 +16,30 @@ Hi, I'm Xianyi (she-an-yee). I'm a PhD student at [the Manipulation Lab](http://
 
 ## Publications
 
+**Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D** \
+**Xianyi Cheng**, Eric Huang, Yifan Hou, Matthew T. Mason \
+International Conference on Robotics and Automation (ICRA), 2021 \
+[paper](https://arxiv.org/abs/2011.01454) 
+
+**Efficient Contact Mode Enumeration in 3D** \
+Eric Huang, **Xianyi Cheng**, Matthew T. Mason \
+International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2020 \
+[paper](http://robotics.cs.rutgers.edu/wafr2020/wp-content/uploads/sites/7/2020/05/WAFR_2020_FV_73.pdf)
+
+**Manipulation with Suction Cups using External Contacts** \
+**Xianyi Cheng**, Yifan Hou, Matthew T. Mason  \
+International Symposium on Robotics Research (ISRR), 2019 \
+[paper](https://xianyicheng.github.io/files/cheng_isrr19.pdf)
+
+**Data-Efficient  Process  Monitoring  and  Failure  Detectionfor  Robust  Robotic  Screwdriving** \
+**Xianyi Cheng**, Zhengzhong Jia, Matthew T. Mason \
+International Conference on Automation Science and Engineering (CASE), 2019 \
+[paper](https://xianyicheng.github.io/files/cheng_case19.pdf)
+
 **Sensor Selection and Stage & Result Classifications for Automated Miniature Screwdriving** \
-**Xianyi Cheng**, Zhengzhong Jia, Ankit Bhatia, Reuben M Aronson, Matthew T Mason \
+**Xianyi Cheng**, Zhengzhong Jia, Ankit Bhatia, Reuben M Aronson, Matthew T. Mason \
 International Conference on Intelligent Robots (IROS), 2018 \
-[PDF](https://xianyicheng.github.io/files/cheng_iros18.pdf)
+[paper](https://xianyicheng.github.io/files/cheng_iros18.pdf)
 
 ## Teaching 
 
