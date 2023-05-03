@@ -39,7 +39,7 @@ International Conference on Robotics and Automation (ICRA), 2022 \
 **Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D** \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
 International Conference on Robotics and Automation (ICRA), 2021 \
-[paper](https://arxiv.org/abs/2011.01454)/ [video](https://youtu.be/2yYYLN3JAbs)\
+[paper](https://arxiv.org/abs/2011.01454)/ [video](https://youtu.be/2yYYLN3JAbs)/ 
 [contact-mode-enumeration-2d-matlab](https://github.com/XianyiCheng/contact_mode_enumeration_2d)
 
 **Efficient Contact Mode Enumeration in 3D** \
@@ -66,9 +66,9 @@ International Conference on Intelligent Robots (IROS), 2018 \
 CMU 24-351 Dynamics, Fall 2022, TA and recitation instructor \
 CMU 24-760 Robot Dynamics and Analysis, Fall 2021, TA and recitation instructor
 
-## Industry Experience
-Amazon Robotics AI, Applied Scientist Intern, 2022 Summer \
-I worked in motion primivie development for [stowing](https://spectrum.ieee.org/amazon-warehouse-robots-2659064182).
+## Industry
+Amazon Robotics AI, Applied Scientist Intern, 2022 Summer, 
+Motion primitive development for [stowing](https://spectrum.ieee.org/amazon-warehouse-robots-2659064182).
 
 ABB Robotics, Research Intern, 2020 Summer
 
