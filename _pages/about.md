@@ -24,12 +24,12 @@ International Journal of Robotics Research (IJRR) \ -->
 **Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation** \
 Jacky Liang, *Xianyi Cheng*, Oliver Kroemer \
 The Conference on Robot Learning (CoRL), 2022 \
-[paper](https://arxiv.org/abs/2206.12728)
+[paper](https://arxiv.org/abs/2206.12728)/ [website](https://sites.google.com/view/constrained-manipulation)/ [video](https://youtu.be/PfrdFWogaHk)
 
 **Extrinsic Dexterous Manipulation with a Direct-drive Hand: A Case Study** \
 Arnav Gupta, Yuemin Mao, Ankit Bhatia, *Xianyi Cheng*, Jonathan King, Yifan Hou, Matthew T Mason \
 International Conference on Intelligent Robots and Systems (IROS), 2022 \
-[paper](https://ieeexplore.ieee.org/abstract/document/9981569)
+[paper](https://ieeexplore.ieee.org/abstract/document/9981569)/ [video](https://youtu.be/IYknKHFLark)
 
 **Contact Mode Guided Motion Planning for Quasidynamic Dexterous Manipulation in 3D** \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
