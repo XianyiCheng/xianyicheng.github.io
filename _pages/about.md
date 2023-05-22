@@ -25,12 +25,12 @@ The International Journal of Robotics Research (IJRR), 2023 \
 **Learning Preconditions of Hybrid Force-Velocity Controllers for Contact-Rich Manipulation** \
 Jacky Liang, *Xianyi Cheng*, Oliver Kroemer \
 The Conference on Robot Learning (CoRL), 2022 \
-[paper](https://arxiv.org/abs/2206.12728)
+[paper](https://arxiv.org/abs/2206.12728)/ [website](https://sites.google.com/view/constrained-manipulation)/ [video](https://youtu.be/PfrdFWogaHk)
 
 **Extrinsic Dexterous Manipulation with a Direct-drive Hand: A Case Study** \
 Arnav Gupta, Yuemin Mao, Ankit Bhatia, *Xianyi Cheng*, Jonathan King, Yifan Hou, Matthew T Mason \
 International Conference on Intelligent Robots and Systems (IROS), 2022 \
-[paper](https://ieeexplore.ieee.org/abstract/document/9981569)
+[paper](https://ieeexplore.ieee.org/abstract/document/9981569)/ [video](https://youtu.be/IYknKHFLark)
 
 **Contact Mode Guided Motion Planning for Quasidynamic Dexterous Manipulation in 3D** \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
@@ -40,7 +40,7 @@ International Conference on Robotics and Automation (ICRA), 2022 \
 **Contact Mode Guided Sampling-Based Planning for Quasistatic Dexterous Manipulation in 2D** \
 *Xianyi Cheng*, Eric Huang, Yifan Hou, Matthew T. Mason \
 International Conference on Robotics and Automation (ICRA), 2021 \
-[paper](https://arxiv.org/abs/2011.01454)/ [video](https://youtu.be/2yYYLN3JAbs)\
+[paper](https://arxiv.org/abs/2011.01454)/ [video](https://youtu.be/2yYYLN3JAbs)/ 
 [contact-mode-enumeration-2d-matlab](https://github.com/XianyiCheng/contact_mode_enumeration_2d)
 
 **Efficient Contact Mode Enumeration in 3D** \
@@ -67,9 +67,15 @@ International Conference on Intelligent Robots (IROS), 2018 \
 CMU 24-351 Dynamics, Fall 2022, TA and recitation instructor \
 CMU 24-760 Robot Dynamics and Analysis, Fall 2021, TA and recitation instructor
 
+## Industry
+Amazon Robotics AI, Applied Scientist Intern, 2022 Summer, 
+Motion primitive development for [stowing](https://spectrum.ieee.org/amazon-warehouse-robots-2659064182).
+
+ABB Robotics, Research Intern, 2020 Summer
+
 ## CV
 Download [here](https://xianyicheng.github.io/files/Xianyi_CV.pdf)
 
-## Misc
+## Fun
 
 I enjoy being part of the Carnegie Mellon Jazz Choir. Here are some of our performance: [Spring 2023](https://www.youtube.com/live/9lHFr5QU1q0?feature=share&t=670), [Fall 2022](https://www.youtube.com/live/NCXkeIqxoXM?feature=share&t=1365).
