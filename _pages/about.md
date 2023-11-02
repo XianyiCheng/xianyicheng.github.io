@@ -19,7 +19,7 @@ I'm interested in everything about robotic manipulation. It is usually surprisin
 
 **Enhancing Dexterity in Robotic Manipulation via Hierarchical Contact Exploration** \
 *Xianyi Cheng*, Sarvesh Patil, Zeynep Temel, Oliver Kroemer, Matthew T. Mason \
-IEEE Robotics and Automation Letter (RAL), 2023, Accepted\
+Robotics and Automation Letter (RAL), 2023, Accepted\
 International Conference on Intelligent Robots (IROS) 2023, Late Breaking Results, Oral\
 [paper](http://arxiv.org/abs/2307.00383)/ [website](https://xianyicheng.github.io/HiDex-Website)
 
