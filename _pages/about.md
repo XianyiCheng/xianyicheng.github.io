@@ -11,9 +11,9 @@ redirect_from:
 Xianyi Cheng 程先仪
 -----
 
-Hi, I'm Xianyi (she-an-yee). I'm a PhD student advised by Professor [Matt Mason](http://www.cs.cmu.edu/~mason/) at [the Manipulation Lab](http://mlab.ri.cmu.edu), Carnegie Mellon University. 
+Hi, I'm Xianyi (she-an-yee). I'm a PhD student advised by Professor [Matthew T. Mason](http://www.cs.cmu.edu/~mason/) at [the Manipulation Lab](http://mlab.ri.cmu.edu), Carnegie Mellon University. 
 
-I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity into robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
+I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity to robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
 
 ## Publications
 
@@ -84,4 +84,4 @@ Download [here](https://xianyicheng.github.io/files/Xianyi_CV.pdf)
 
 ## Fun
 
-I enjoy being part of the Carnegie Mellon Jazz Choir. Here are some of our performance: [Spring 2023](https://www.youtube.com/live/9lHFr5QU1q0?feature=share&t=670), [Fall 2022](https://www.youtube.com/live/NCXkeIqxoXM?feature=share&t=1365).
+I enjoy being part of the Carnegie Mellon Jazz Choir. Here are some of our performances: [Spring 2023](https://www.youtube.com/live/9lHFr5QU1q0?feature=share&t=670), [Fall 2022](https://www.youtube.com/live/NCXkeIqxoXM?feature=share&t=1365).
