@@ -84,4 +84,4 @@ Download [here](https://xianyicheng.github.io/files/Xianyi_CV.pdf)
 
 ## Fun
 
-I enjoy being part of the Carnegie Mellon Jazz Choir. Here are some of our performances: [Fall 2023](https://www.youtube.com/live/eWgUQzU5x0Y?si=_nSOO97eZDatoC_z&t=891), [Spring 2023](https://www.youtube.com/live/9lHFr5QU1q0?feature=share&t=670), [Fall 2022](https://www.youtube.com/live/NCXkeIqxoXM?feature=share&t=1365).
+I enjoy being part of the Carnegie Mellon Jazz Choir. Here are some of our performances: [Fall 2023](https://www.youtube.com/live/eWgUQzU5x0Y?si=LdjxZ9qL8s_8RkEn&t=926), [Spring 2023](https://www.youtube.com/live/9lHFr5QU1q0?feature=share&t=670), [Fall 2022](https://www.youtube.com/live/NCXkeIqxoXM?feature=share&t=1365).
