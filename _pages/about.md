@@ -15,7 +15,7 @@ Hi, I'm Xianyi (she-an-yee). I'm a PhD student advised by Professor [Matthew T. 
 
 I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity to robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
 
-<span style="color:lightgreen">I will join Duke University as an assistant professor in the MEMS department in 2025 :)</span>
+<span style="color:#ff9a8f">I will join Duke University as an assistant professor in the MEMS department in 2025 :)</span>
 
 ## Publications
 **Caging in Motion: Characterizing Robustness in Manipulation through Energy Margin and Dynamic Caging Analysis** \
