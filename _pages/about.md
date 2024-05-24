@@ -15,11 +15,17 @@ Hi, I'm Xianyi (she-an-yee). I'm a PhD student advised by Professor [Matthew T. 
 
 I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity to robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
 
+<span style="color:green">I will join Duke University as an Assistant Professor in the MEMS department in 2025 :)</span>
+
 ## Publications
+**Caging in Motion: Characterizing Robustness in Manipulation through Energy Margin and Dynamic Caging Analysis** \
+Yifei Dong, *Xianyi Cheng*, Florian T. Pokorny \
+Robotics and Automation Letter (RAL), 2024, Accepted\
+[paper](https://arxiv.org/abs/2404.12115)
 
 **Enhancing Dexterity in Robotic Manipulation via Hierarchical Contact Exploration** \
 *Xianyi Cheng*, Sarvesh Patil, Zeynep Temel, Oliver Kroemer, Matthew T. Mason \
-Robotics and Automation Letter (RAL), 2023, Accepted\
+Robotics and Automation Letter (RAL), 2023\
 International Conference on Intelligent Robots (IROS) 2023, Late Breaking Results, Oral\
 [paper](http://arxiv.org/abs/2307.00383)/ [website](https://xianyicheng.github.io/HiDex-Website)
 
