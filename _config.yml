@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xianyi Cheng"
 title_separator          : "-"
 name                     : &name "Xianyi Cheng"
-description              : &description "Roboticist @ CMU"
+description              : &description "Roboticist @ Duke"
 url                      : https://xianyicheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/xianyicheng"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xianyi Cheng"
   avatar           : "WechatIMG29.jpeg"
-  bio              : "Roboticist @ CMU"
+  bio              : "Roboticist @ Duke"
   location         : "Pittsburgh"
   employer         :
   googlescholar    : https://scholar.google.com/citations?hl=en&user=PvDd3k4AAAAJ
-  email            : "xianyic@andrew.cmu.edu"
+  email            : "xianyi.cheng@duke.edu"
   uri              :
   bitbucket        :
   codepen          :

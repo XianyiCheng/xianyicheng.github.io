@@ -20,7 +20,7 @@ I'm interested in everything about robotic manipulation. It is usually surprisin
 ## Publications
 **Caging in Motion: Characterizing Robustness in Manipulation through Energy Margin and Dynamic Caging Analysis** \
 Yifei Dong, *Xianyi Cheng*, Florian T. Pokorny \
-Robotics and Automation Letter (RAL), 2024, Accepted\
+Robotics and Automation Letter (RAL), 2024\
 [paper](https://arxiv.org/abs/2404.12115)
 
 **Enhancing Dexterity in Robotic Manipulation via Hierarchical Contact Exploration** \
