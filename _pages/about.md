@@ -75,7 +75,7 @@ International Conference on Intelligent Robots (IROS), 2018 \
 [paper](https://xianyicheng.github.io/files/cheng_iros18.pdf)
 
 ## Teaching 
-DUKE ME-555 Robotic Manipulation, Spring 2025 \ 
+DUKE ME-555 Robotic Manipulation, Spring 2025 \
 CMU 24-351 Dynamics, Fall 2022, TA and recitation instructor \
 CMU 24-760 Robot Dynamics and Analysis, Fall 2021, TA and recitation instructor
 
