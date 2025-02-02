@@ -11,11 +11,10 @@ redirect_from:
 Xianyi Cheng 程先仪
 -----
 
-Hi, I'm Xianyi (she-an-yee). I recently obtained my PhD from Carnegie Mellon University, where I was advised by Professor [Matthew T. Mason](https://mtmason.com/).
+Hi, I'm Xianyi (she-an-yee). I am an Assistant Professor in the MEMS department at Duke University. I recently obtained my PhD from Carnegie Mellon University, where I was advised by Professor [Matthew T. Mason](https://mtmason.com/).
 
-I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity to robotic manipulation. Currently, my work focuses on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
+I'm interested in everything about robotic manipulation. It is usually surprising to many people that, while AIs have achieved superhuman performance in some areas, robots struggle with manipulation tasks that are extremely easy to humans ([Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)). My ultimate research goal is to bring human-level dexterity to robotic manipulation. Previously, my PhD work focused on dexterous manipulation motion generation --- the first step toward general manipulation intelligence.
 
-<span style="color:#ff9a8f">**I will join Duke University as an assistant professor in the MEMS department in Spring 2025. I am seeking graduate students passionate about robotic manipulation starting in Fall 2025. More information regarding the PhD openings can be found [here](https://xianyicheng.github.io/files/phd_2025_dexlab.pdf).** </span>
 
 ## Publications
 **Caging in Motion: Characterizing Robustness in Manipulation through Energy Margin and Dynamic Caging Analysis** \
