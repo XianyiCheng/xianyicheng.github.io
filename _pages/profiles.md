@@ -2,27 +2,27 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: 
 nav: true
-nav_order: 7
+nav_order: 3
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  - title: "PI"
+    image: "2.jpg"
+    image_circular: false
+    more_info: "Dr. Alice Smith — Professor of Robotics"
+
+  - title: "Postdoc"
+    image: "1.jpg"
+    image_circular: false
+    more_info: '<a href="https://example.com" target="_blank">John Doe</a> – Postdoc in AI'
+
+  - title: "Postdoc"
+    image: "3.jpg"
+    image_circular: false
+    more_info: "Postdoc in ML"
+
+  - title: "PhD"
+    image: "4.jpg"
+    more_info: "PhD student in Robotics"
 ---
