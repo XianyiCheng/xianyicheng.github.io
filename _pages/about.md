@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle:  
+# subtitle:
 
 profile:
   align: right
@@ -26,8 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-**Hi, I’m Xianyi** (she-an-yee). 
-I am an Assistant Professor in the MEMS department at Duke University. 
+
+**Hi, I’m Xianyi** (she-an-yee).
+I am an Assistant Professor in the MEMS department at Duke University.
 I obtained my PhD in Aug 2024 from Carnegie Mellon University, where I I was fortunate to be advised by [Matt Mason](https://mtmason.com/).
 
 I’m interested in everything about robotic manipulation. \\
@@ -35,8 +36,7 @@ I’m interested in everything about robotic manipulation. \\
 **Manipulation is intriguing.** There's still so much we don't fully understand --- from contact mechanics, the complexity of motions, controlling these complex motions, interactive perception, to problem solving for complex physical tasks. Manipulation is the intelligence of motion evolved over billions of years. Manipulation is the art of nature, now becoming our art through engineering and science. \\
 **Manipulation is the future.** Human-level dexterity in robotics will transform industries and people’s lives. I aspire to help bring a future where robotic manipulation enables more people to pursue lives of dignity, purpose, creativity, and fulfillment.
 
-
-[email](mailto:xianyi.cheng@duke.edu) \| [google scholar](https://scholar.google.com/citations?hl=en&user=PvDd3k4AAAAJ) \| [linkedin](https://www.linkedin.com/in/xianyi-cheng-81249617b/) \| [twitter](https://x.com/ChengXianyi) 
+[email](mailto:xianyi.cheng@duke.edu) \| [google scholar](https://scholar.google.com/citations?hl=en&user=PvDd3k4AAAAJ) \| [linkedin](https://www.linkedin.com/in/xianyi-cheng-81249617b/) \| [twitter](https://x.com/ChengXianyi)
 
 <br>
 
@@ -44,15 +44,16 @@ I’m interested in everything about robotic manipulation. \\
 
 I’m proud to lead [the Robot Dexterity Lab (DexLab)](/lab), driven by amazing students full of passion and creativity.
 We focus on understanding and engineering manipulation. Currently, we are exploring questions such as:
+
 - How do we develop robot manipulation skills that are generalizable across tasks and transferable across robots?
 - What new forms of dexterity are possible, and can all robots be dexterous in manipulation?
 - What is the fundamental complexity of manipulation? Can we develop a formal framework to characterize its difficulty, robustness, and evaluation methods?
-- What infrastructure best supports the development, integration, and benchmarking of generalizable manipulation skills?  
+- What infrastructure best supports the development, integration, and benchmarking of generalizable manipulation skills?
 
 <br>
 
 #### Teaching
 
 - [Robotic Manipulation (ME-555), Spring 2025](https://sites.google.com/view/duke-manipulation-spring25), Instructor, Duke
-- Dynamics (24-351), Fall 2022, TA and Weekly Recitation Instructor, CMU 
+- Dynamics (24-351), Fall 2022, TA and Weekly Recitation Instructor, CMU
 - Robot Dynamics and Analysis (24-760), Fall 2021, TA and Weekly Recitation Instructor, CMU

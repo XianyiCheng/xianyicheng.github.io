@@ -1,23 +1,26 @@
 ---
 layout: page
 ---
-
 <div class="post">
   <article>
     {% if page.profiles %}
-      {% assign grouped_profiles = page.profiles | group_by: "title" %}
+      {% assign grouped_profiles = page.profiles | group_by: 'title' %}
 
       {% for group in grouped_profiles %}
         <h2>{{ group.name }}</h2>
 
         {% assign is_multiple = group.items | size | minus: 1 %}
-        <div style="{% if is_multiple > 0 %}
-                      display: flex;
-                      flex-wrap: wrap;
-                      justify-content: flex-start;
-                      gap: 24px;
-                      margin-bottom: 2rem;
-                    {% endif %}">
+        <div
+          style="
+            {% if is_multiple > 0 %}
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: flex-start;
+              gap: 24px;
+              margin-bottom: 2rem;
+            {% endif %}
+          "
+        >
           {% for profile in group.items %}
             <div style="width: 180px; text-align: center;">
               {% if profile.image %}
