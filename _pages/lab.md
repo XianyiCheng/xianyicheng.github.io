@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://dexlab.pratt.duke.edu/
+permalink: https://xianyicheng.github.io/dexlab/
 title: lab
 nav: true
 nav_order: 1

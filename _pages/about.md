@@ -42,7 +42,7 @@ I’m interested in everything about robotic manipulation. \\
 
 #### Research
 
-I’m proud to lead [the Robot Dexterity Lab (DexLab)](/lab), driven by amazing students full of passion and creativity.
+I’m proud to lead [the Robot Dexterity Lab (DexLab)](https://xianyicheng.github.io/dexlab/), driven by amazing students full of passion and creativity.
 We focus on understanding and engineering manipulation. Currently, we are exploring questions such as:
 
 - How do we develop robot manipulation skills that are generalizable across tasks and transferable across robots?
