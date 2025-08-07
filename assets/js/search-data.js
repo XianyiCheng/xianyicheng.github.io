@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/dexlab.pratt.duke.edu/";
+            window.location.href = "/https:/xianyicheng.github.io/dexlab/";
           },
         },{id: "post-a-post-with-plotly-js",
         
