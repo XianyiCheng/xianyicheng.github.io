@@ -33,8 +33,8 @@ I obtained my PhD in Aug 2024 from Carnegie Mellon University, where I was fortu
 
 I’m interested in everything about robotic manipulation. \\
 **Manipulation is hard.** Many manual tasks that are simple and repetitive for humans remain extremely difficult to automate. \\
-**Manipulation is intriguing.** There's still so much we don't fully understand --- from contact mechanics, the complexity of motions, controlling these complex motions, interactive perception, to problem solving for complex physical tasks. Manipulation is the intelligence of motion evolved over billions of years. Manipulation is the art of nature, now becoming the art through engineering and science. \\
-**Manipulation is the future.** Human-level dexterity in robotics will transform industries and people’s lives. I aspire to help bring a future where robotic manipulation enables more people to pursue lives of dignity, purpose, creativity, and fulfillment.
+**Manipulation is intriguing.** There's still so much we don't fully understand --- from contact mechanics, the complexity of motions, controlling these complex motions, interactive perception, to problem solving for complex physical tasks. Manipulation is the intelligence of motion evolved over hundreds of millions of years. Manipulation is the art of nature, now becoming the art through engineering and science. \\
+**Manipulation is the future.** Human-level dexterity in robotics will transform industries and people’s lives. I aspire to help bring a future where robotic manipulation enables more people to pursue lives of dignity, creativity, and fulfillment.
 
 [email](mailto:xianyi.cheng@duke.edu) \| [google scholar](https://scholar.google.com/citations?hl=en&user=PvDd3k4AAAAJ) \| [linkedin](https://www.linkedin.com/in/xianyi-cheng-81249617b/) \| [twitter](https://x.com/ChengXianyi)
 
