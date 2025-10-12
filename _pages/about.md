@@ -61,4 +61,4 @@ We focus on understanding and engineering manipulation. Currently, we are explor
 <br>
 
 #### Interested in joining the DexLab?
-You are welcome to send me an email, but the most efficient way is to fill out [this form](https://forms.gle/arbYEMBX5cYBWFYk7). 
+Fill out [this form](https://forms.gle/arbYEMBX5cYBWFYk7) and send me a brief email to let me know your interest.
