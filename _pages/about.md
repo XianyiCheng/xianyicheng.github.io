@@ -53,7 +53,7 @@ We focus on understanding and engineering manipulation. Currently, we are explor
 <br>
 
 #### Teaching
-
+- [Introduction to Robotics and Automation (ME-442/ECE-383), Spring 2026], Instructor, Duke
 - [Robotic Manipulation (ME-555), Spring 2025](https://sites.google.com/view/duke-manipulation-spring25), Instructor, Duke
 - Dynamics (24-351), Fall 2022, TA and Weekly Recitation Instructor, CMU
 - Robot Dynamics and Analysis (24-760), Fall 2021, TA and Weekly Recitation Instructor, CMU
